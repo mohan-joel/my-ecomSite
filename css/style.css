@@ -1,0 +1,15 @@
+.card-img-top{
+	height: 200px;
+	width: 100%;
+	object-fit: contain;
+}
+
+
+.profile{
+	padding: 10px;
+
+}
+
+.profile, a{
+	text-decoration: none;
+}
